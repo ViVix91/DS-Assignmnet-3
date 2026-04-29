@@ -104,14 +104,7 @@ data-science-assignment-3/
 ├── visuals/
 ├── README.md
 └── requirements.txt
-🚀 How to Run
-Clone the Repository
-git clone https://github.com/harsh2810dev/data-science-assignment-3.git
-Install Dependencies
-pip install -r requirements.txt
-Run the Notebook
 
-Open the Jupyter Notebook or Google Colab file and execute all cells.
 
 📌 Conclusion
 
