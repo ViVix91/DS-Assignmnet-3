@@ -12,7 +12,7 @@ An Exploratory Data Analysis (EDA) project on the **United Nations Global Terror
 
 This project uses data science techniques to uncover meaningful patterns in global terrorism data — spanning temporal trends, geographical hotspots, attack characteristics, and human impact. It also includes statistical hypothesis testing and machine learning classification models.
 
-**GitHub Repository:** https://github.com/aman88-dev/Global-Terrorism-Analysis.git
+**GitHub Repository:** https://github.com/ViVix91/DS-Assignmnet-3.git
 
 ---
 
